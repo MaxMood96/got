@@ -93,7 +93,7 @@
 		"pify": "^6.0.0",
 		"readable-stream": "^4.0.0",
 		"request": "^2.88.2",
-		"sinon": "^14.0.0",
+		"sinon": "^19.0.0",
 		"slow-stream": "0.0.4",
 		"tempy": "^3.0.0",
 		"then-busboy": "^5.1.1",
